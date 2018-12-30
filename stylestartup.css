@@ -1,0 +1,35 @@
+.bt {
+	background-image: url(http://calendar.youtoocanrun.com/wp-content/uploads/2017/03/6111_lions-club-run-for-a-cause.jpg);
+	background-size: cover;
+	height: 770px;
+
+}
+
+
+.atti {
+    font-family: 'Staatliches', cursive;
+	color: red;
+	font-size: 7em;
+	border-bottom: 5px ridge white;
+	display: inline-block ;
+	margin: 200px 0px 30px 0px;
+	padding: 0px 10px 0px 10px;
+	box-shadow: 0px 6px 3px -3px red;
+
+}
+
+.moto
+{
+	color: yellow;
+	font-size: 3em;
+	font-style: italic;
+}
+body {
+	text-align: center;
+}
+
+.btn
+{
+	margin-top: 50px;
+	font-size: 2em;
+}                                                 
